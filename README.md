@@ -1,2 +1,2 @@
 # masher
-multiple password 'asher using Python’s hashlib
+Masher – a helper/tool to help identify creative (non-standard) password hashing in use
